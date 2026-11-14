@@ -40,8 +40,6 @@ terraform apply netology-ha.tfplan
 
 ![Две VM в целевой группе](evidence/target-group-two-vms.png)
 
-![HTTP 200 и обе цели HEALTHY](evidence/healthcheck-cli.png)
-
 ![Стандартная страница Nginx](evidence/nginx-via-load-balancer.png)
 
 Задание со звёздочкой не выполняется.
